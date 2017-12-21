@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Guide to Devloping this Blog
+title: Guide-to-Devloping-this-Blog
 author: gandhi
 ---
 
