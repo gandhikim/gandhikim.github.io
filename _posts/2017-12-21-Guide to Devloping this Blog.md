@@ -1,10 +1,8 @@
 ---
 published: false
----
----
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title: Guide to Devloping this Blog
+author: gandhi
 ---
 
 ## A New Post
