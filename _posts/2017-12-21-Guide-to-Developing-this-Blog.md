@@ -15,7 +15,7 @@ published: true
 
 ## 개발환경(Quick-start)
 [지킬테마](http://jekyllthemes.org/)에서 골라 Fork한다.
-![fork.PNG]({{site.baseurl}}/_posts/fork.PNG)
+
 
 
 
