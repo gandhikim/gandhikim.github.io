@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Gandhi.KIM
 paginate:       5
 baseurl:        "/"
 url:            "https://gandhikim.github.io/tale"
