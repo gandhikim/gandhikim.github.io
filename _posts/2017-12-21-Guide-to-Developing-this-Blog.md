@@ -6,17 +6,17 @@ author: "gandhi"
 
 ## gandhi 
 
-## [ÁöÅ³(jekyll)ÀÌ¶õ??](https://jekyllrb-ko.github.io/)
+## [ì§€í‚¬(jekyll)ì´ë€??](https://jekyllrb-ko.github.io/)
 
 ## jekyll vs wordpress
-wordpress º¸´Ù °¡º±´Ù
-github ¿¡¼­ È£½ºÆÃ
-wordpress º¸´Ù Æ÷½ºÆÃ(±Û¾²±â)°¡ Èûµé´Ù?
+wordpress ë³´ë‹¤ ê°€ë³ë‹¤.
+github ì—ì„œ í˜¸ìŠ¤íŒ…ëœë‹¤.
+wordpress ë³´ë‹¤ í¬ìŠ¤íŒ…(ê¸€ì“°ê¸°)ê°€ í˜ë“¤ë‹¤?
 
-## °³¹ßÈ¯°æ(Quick-start)
-[ÁöÅ³Å×¸¶](http://jekyllthemes.org/)¿¡¼­ °ñ¶ó Fork ÇÑ´Ù.
+## ê°œë°œí™˜ê²½(Quick-start)
+[ì§€í‚¬í…Œë§ˆ](http://jekyllthemes.org/)ì—ì„œ ê³¨ë¼ Forkí•œë‹¤.
 
 
 
-## Æ÷½ºÆÃÇÏ±â
+## í¬ìŠ¤íŒ…í•˜ê¸°
 
