@@ -40,6 +40,8 @@ published: true
 
 2.방법
 - github -> "_posts"폴더 -> "Create new file"버튼 -> md파일 생성
-- http://prose.io for quick-and-simple GitHub editing
+- [prose.io](http://prose.io) for quick-and-simple GitHub editing
 - git소스를 로컬pc로 다운받아 수정해서 올리는 방법
 - [Tools for Writing and Previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/#B.qNIBA7_Zqx)
+
+## [gandhi github](https://github.com/gandhikim/gandhikim.github.io)
