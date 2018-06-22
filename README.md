@@ -22,7 +22,7 @@
 
 아래와 같이 수정했다.(github에서 직접 수정)
 - baseurl:        "/"
-- url:            "https://gandhikim.github.io/gandhi"
+- url:            "https://gandhikim.github.io/"
 
 4.[끝](https://gandhikim.github.io/) 
 
